@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohitkatbamna
 - 👀 I’m interested in Front End Development and React
-- 💞️ I’m happy to collaborate on various font end projects
+- 💞️ I’m happy to collaborate on various front end projects
 
 
 <!---
