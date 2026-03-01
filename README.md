@@ -65,16 +65,11 @@ My experience includes working with large data tables, optimizing frontend perfo
 
 ---
 
-## GitHub Stats
-
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
 
 ## Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- GitHub: https://github.com/rohitkatbamna
+- LinkedIn: [https://linkedin.com/in/](https://www.linkedin.com/in/rohitkatbamna/)
 - Email: rohit.m.katbamna@gmail.com
 
 ---
