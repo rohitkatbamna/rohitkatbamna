@@ -69,7 +69,7 @@ My experience includes working with large data tables, optimizing frontend perfo
 ## Connect With Me
 
 - GitHub: https://github.com/rohitkatbamna
-- LinkedIn: [https://linkedin.com/in/](https://www.linkedin.com/in/rohitkatbamna/)
+- LinkedIn: [https://www.linkedin.com/in/rohitkatbamna/](https://www.linkedin.com/in/rohitkatbamna/)
 - Email: rohit.m.katbamna@gmail.com
 
 ---
